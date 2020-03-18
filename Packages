@@ -1,0 +1,16 @@
+Package: com.tomcmow.gupilines
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Colemowbray1@gmail.com
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debs/GupiLines.deb
+Size: 2083628
+MD5sum: 8b45e7311e9a25521d39a34e383d20ae
+SHA1: bf8892b8b978e47da4b347a0f777751e9f5c8972
+SHA256: 0cb0aec443ffe7259fd353d42ed645ab0503b0e5f1461e8f46342348371fc76c
+Section: Themes
+Description: A theme with beautiful icons!
+Author: ColeMowbray1@gmail.com
+Depiction: https://tomcmow.github.io/repo/depictions/?p=com.tomcmow.gupilines
+Name: GupiLines
+
